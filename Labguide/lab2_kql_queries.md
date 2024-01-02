@@ -78,7 +78,7 @@ In this task, you will build basic KQL statements.
     search "err"
     ```
 
-    >**Note**: It will taskes some time to reflect, you can move to other command check this later. *Hint*: If the above command is not getting output replace **"err"** to **"new"**.
+    >**Note**: It will take some time to reflect, you can move to other command and check this later. *Hint*: If the above command is not showing any results, replace **"err"** to **"new"**.
 
     ![Picture 1](./media/SC-200-img9.png)
 
